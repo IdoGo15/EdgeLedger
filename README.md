@@ -1,0 +1,2 @@
+# EdgeLedger
+Fictional financial company
