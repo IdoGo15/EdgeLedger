@@ -6,4 +6,4 @@
 ## Technologies
 * HTML
 * CSS
-*JS
+* JS
